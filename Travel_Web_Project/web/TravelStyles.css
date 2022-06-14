@@ -1,0 +1,107 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 22, 2021, 1:49:41 PM
+    Author     : miles
+*/
+
+
+body {
+    max-width: 1350px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-family: Ariel;
+    
+    
+   
+    }
+   
+.list{
+    margin-left: auto;
+  margin-right: auto;
+}
+.prompt{
+     margin-left: auto;
+  margin-right: auto;
+}
+.submit{
+    margin-left: auto;
+  margin-right: auto;
+}
+button {
+    background-color: #000033;
+    border: none;
+    color: #ffffff;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button {
+    background-color: #000033;
+    border: none;
+    color: #ffffff;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+button {
+    background-color: #ffffff; 
+    color: #000033; 
+    border: 2px solid #000033;
+}
+button:hover {
+    background-color: #000033;
+    color: #ffffff;
+}
+.btn {
+background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;   
+        }
+        
+        .transparent_btn {
+	display: inline-block;
+	padding: 10px 14px;
+	color: #FFF;
+	border: 1px solid #FFF;
+	text-decoration: none;
+	font-size: 14px;
+	line-height: 120%;
+	background-color: rgba(255,255,255, 0);
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-transition: background-color 300ms ease;
+	-moz-transition: background-color 300ms ease;
+	transition: background-color 300ms ease;
+	cursor: pointer;
+}
+.transparent_btn:hover {
+	background-color: rgba(255,255,255, 0.3);
+	color: #FFF;
+}
+
+
+
+
+
+
+
+
+
+
+
