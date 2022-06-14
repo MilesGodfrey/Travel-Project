@@ -1,2 +1,2 @@
 # Travel-Project
-A Java app I made that displays travel equipment needed.
+A couple Java apps I made that displays travel equipment needed. I created one that simply prints to command line, and I created one that uses JSPs to display a front-end.
